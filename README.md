@@ -1,6 +1,4 @@
-# Manage Product
 
-Manage product and category API
 
 ## Development Environment Setup
 
