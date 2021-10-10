@@ -6,7 +6,7 @@ Manage product and category API
 
 1.  Clone repo
 
-        $ git clone https://github.com/pawan-dot/manage-product-api.git
+        $ git clone https://github.com/pawan-dot/SignUp-Login-API.git
 
 2.  Go to the project directory and install deps
 
